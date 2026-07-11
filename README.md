@@ -10,6 +10,6 @@ Esse é um repositório onde posto os desafios propostos no curso de HTML5 e CSS
 
 ## Desafios Frontend Mentor
 
-Esse repositório contém desafios do site Fronten Mentor, que tem como finalidade exercitar meus conhecimentos nas linguagens HTML e CSS.
+Esse repositório contém desafios do site Frontend Mentor, que tem como finalidade exercitar meus conhecimentos nas linguagens HTML e CSS.
 
 * [Clique aqui para acessar o repositório](https://luizricardo08.github.io/DESAFIOS-FRONTEND-MENTOR/)
